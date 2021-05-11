@@ -1,0 +1,106 @@
+[app/ui]
+version = 8.0.5
+modtime = 1616580571.900386000
+
+[app/launcher]
+version = 8.0.5
+modtime = 1616580571.901742000
+
+[props/openotp%3Awebadm]
+owner = admin
+version = 8.0.5
+modtime = 1616580994.235756000
+
+[indexes/openotp]
+owner = admin
+version = 8.0.5
+modtime = 1616581012.003148000
+
+[props/openotp%3Awebadm/EXTRACT-openotp_webadm_source]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+version = 8.0.5
+modtime = 1616928781.884402000
+
+[props/openotp%3Awebadm/EXTRACT-openotp_webadm_session]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+version = 8.0.5
+modtime = 1618230343.251672000
+
+[props/openotp%3Awebadm/EXTRACT-openotp_webadm_apache_code]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+version = 8.0.5
+modtime = 1618291736.773813000
+
+[props/openotp%3Awebadm/EXTRACT-openotp_webadm_domain]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+version = 8.0.5
+modtime = 1616929867.241703000
+
+[props/openotp%3Awebadm/EXTRACT-openotp_webadm_username]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+version = 8.0.5
+modtime = 1618230224.438202000
+
+[props/openotp%3Awebadm/EXTRACT-openotp_webadm_full_policy]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+version = 8.0.5
+modtime = 1618230294.324002000
+
+[transforms/openotp_policy_policysetting]
+export = system
+owner = admin
+version = 8.0.5
+modtime = 1617753239.176097000
+
+[props/openotp%3Awebadm/EXTRACT-openotp_webadm_message]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+version = 8.0.5
+modtime = 1618269849.803249000
+
+[props/openotp%3Awebadm/EXTRACT-openotp_apache_message]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+version = 8.0.5
+modtime = 1618291797.054737000
+
+[props/openotp%3Awebadm/EXTRACT-openotp_apache_client]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+version = 8.0.5
+modtime = 1618292330.824175000
+
+[props/openotp%3Abgjobs]
+owner = admin
+version = 8.0.5
+modtime = 1618317649.238796000
+
+[props/openotp%3Arsignd]
+owner = admin
+version = 8.0.5
+modtime = 1618318607.690512000
+
+[props/openotp%3Asessionid]
+owner = admin
+version = 8.0.5
+modtime = 1618318837.275202000
+
+[props/openotp%3Awatchd]
+owner = admin
+version = 8.0.5
+modtime = 1618318884.148047000
