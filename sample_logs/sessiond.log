@@ -1,0 +1,872 @@
+1707:C 11 Mar 2021 17:38:00.803 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1707:C 11 Mar 2021 17:38:00.803 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=1707, just started
+1707:C 11 Mar 2021 17:38:00.803 # Configuration loaded
+1707:M 11 Mar 2021 17:38:00.808 # Server initialized
+1707:signal-handler (1615461918) Received SIGTERM scheduling shutdown...
+1707:M 11 Mar 2021 12:25:18.745 # User requested shutdown...
+1707:M 11 Mar 2021 12:25:18.747 # Redis is now ready to exit, bye bye...
+26638:C 11 Mar 2021 12:25:42.984 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+26638:C 11 Mar 2021 12:25:42.984 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=26638, just started
+26638:C 11 Mar 2021 12:25:42.984 # Configuration loaded
+26638:M 11 Mar 2021 12:25:42.986 # Server initialized
+26638:signal-handler (1615512107) Received SIGTERM scheduling shutdown...
+26638:M 12 Mar 2021 02:21:47.884 # User requested shutdown...
+26638:M 12 Mar 2021 02:21:47.898 # Redis is now ready to exit, bye bye...
+1712:C 12 Mar 2021 02:22:38.705 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1712:C 12 Mar 2021 02:22:38.705 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=1712, just started
+1712:C 12 Mar 2021 02:22:38.705 # Configuration loaded
+1712:M 12 Mar 2021 02:22:38.710 # Server initialized
+1712:signal-handler (1615512905) Received SIGTERM scheduling shutdown...
+1712:M 12 Mar 2021 02:35:06.032 # User requested shutdown...
+1712:M 12 Mar 2021 02:35:06.034 # Redis is now ready to exit, bye bye...
+1710:C 12 Mar 2021 02:40:59.485 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1710:C 12 Mar 2021 02:40:59.486 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=1710, just started
+1710:C 12 Mar 2021 02:40:59.486 # Configuration loaded
+1710:M 12 Mar 2021 02:40:59.490 # Server initialized
+1710:signal-handler (1615513412) Received SIGTERM scheduling shutdown...
+1710:M 12 Mar 2021 02:43:32.200 # User requested shutdown...
+1710:M 12 Mar 2021 02:43:32.202 # Redis is now ready to exit, bye bye...
+2293:C 12 Mar 2021 02:43:37.175 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2293:C 12 Mar 2021 02:43:37.175 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=2293, just started
+2293:C 12 Mar 2021 02:43:37.175 # Configuration loaded
+2293:M 12 Mar 2021 02:43:37.179 # Server initialized
+2293:M 12 Mar 2021 03:29:31.277 # Error accepting a client connection: (null)
+2293:M 12 Mar 2021 03:29:31.279 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+2293:M 12 Mar 2021 03:29:31.282 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 03:29:31.286 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 03:29:31.292 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 03:29:31.299 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 03:29:31.301 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 03:29:31.304 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 03:29:31.309 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+2293:M 12 Mar 2021 03:29:31.311 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 12 Mar 2021 03:29:31.313 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 12 Mar 2021 05:28:54.443 # Error accepting a client connection: (null)
+2293:M 12 Mar 2021 05:28:54.445 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+2293:M 12 Mar 2021 05:28:54.447 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 05:28:54.451 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 05:28:54.453 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+2293:M 12 Mar 2021 05:28:54.455 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 05:28:54.457 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 05:28:54.462 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 05:28:54.464 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low
+2293:M 12 Mar 2021 05:28:54.467 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 12 Mar 2021 05:28:54.470 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 12 Mar 2021 07:24:48.592 # Error accepting a client connection: (null)
+2293:M 12 Mar 2021 07:24:48.595 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+2293:M 12 Mar 2021 07:24:48.598 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 07:24:48.601 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 07:24:48.604 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 07:24:48.606 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 07:24:48.608 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 07:24:48.610 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 07:24:48.612 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+2293:M 12 Mar 2021 07:24:48.614 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+2293:M 12 Mar 2021 07:24:48.630 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 12 Mar 2021 09:25:47.663 # Error accepting a client connection: (null)
+2293:M 12 Mar 2021 09:25:47.667 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+2293:M 12 Mar 2021 09:25:47.669 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 09:25:47.672 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 09:25:47.679 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 09:25:47.681 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 09:25:47.683 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 09:25:47.685 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 09:25:47.687 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+2293:M 12 Mar 2021 09:25:47.689 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 12 Mar 2021 09:25:47.695 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 12 Mar 2021 11:28:20.678 # Error accepting a client connection: (null)
+2293:M 12 Mar 2021 11:28:20.678 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+2293:M 12 Mar 2021 11:28:20.680 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 11:28:20.682 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 11:28:20.687 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 11:28:20.692 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 11:28:20.701 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 11:28:20.711 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 11:28:20.718 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+2293:M 12 Mar 2021 11:28:20.723 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 12 Mar 2021 11:28:20.728 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 12 Mar 2021 13:27:55.595 # Error accepting a client connection: (null)
+2293:M 12 Mar 2021 13:27:55.599 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+2293:M 12 Mar 2021 13:27:55.602 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 13:27:55.604 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 13:27:55.606 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 13:27:55.611 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 13:27:55.613 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 13:27:55.617 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 13:27:55.620 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+2293:M 12 Mar 2021 13:27:55.628 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 12 Mar 2021 13:27:55.630 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 12 Mar 2021 15:26:43.380 # Error accepting a client connection: (null)
+2293:M 12 Mar 2021 15:26:43.382 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+2293:M 12 Mar 2021 15:26:43.386 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 15:26:43.394 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 15:26:43.396 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 15:26:43.398 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 15:26:43.400 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 15:26:43.405 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 15:26:43.408 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+2293:M 12 Mar 2021 15:26:43.410 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 12 Mar 2021 15:26:43.412 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 12 Mar 2021 19:26:41.005 # Error accepting a client connection: (null)
+2293:M 12 Mar 2021 19:26:41.006 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+2293:M 12 Mar 2021 19:26:41.012 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 19:26:41.014 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 19:26:41.016 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 19:26:41.019 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 19:26:41.021 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 19:26:41.025 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 19:26:41.030 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+2293:M 12 Mar 2021 19:26:41.042 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 12 Mar 2021 19:26:41.045 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+2293:M 12 Mar 2021 21:26:51.343 # Error accepting a client connection: (null)
+2293:M 12 Mar 2021 21:26:51.345 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+2293:M 12 Mar 2021 21:26:51.356 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 21:26:51.372 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 21:26:51.381 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 21:26:51.394 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 21:26:51.396 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 21:26:51.398 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 21:26:51.400 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+2293:M 12 Mar 2021 21:26:51.402 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 12 Mar 2021 21:26:51.403 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 12 Mar 2021 23:26:44.545 # Error accepting a client connection: (null)
+2293:M 12 Mar 2021 23:26:44.547 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+2293:M 12 Mar 2021 23:26:44.550 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 23:26:44.552 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 23:26:44.555 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 23:26:44.556 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 23:26:44.559 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 23:26:44.561 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 12 Mar 2021 23:26:44.563 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low
+2293:M 12 Mar 2021 23:26:44.565 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 12 Mar 2021 23:26:44.567 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+2293:M 13 Mar 2021 01:24:46.214 # Error accepting a client connection: (null)
+2293:M 13 Mar 2021 01:24:46.216 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request
+2293:M 13 Mar 2021 01:24:46.219 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 01:24:46.225 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 01:24:46.227 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 01:24:46.229 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 01:24:46.233 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+2293:M 13 Mar 2021 01:24:46.237 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 01:24:46.239 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+2293:M 13 Mar 2021 01:24:46.243 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+2293:M 13 Mar 2021 01:24:46.245 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+2293:M 13 Mar 2021 03:24:48.786 # Error accepting a client connection: (null)
+2293:M 13 Mar 2021 03:24:48.788 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+2293:M 13 Mar 2021 03:24:48.791 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+2293:M 13 Mar 2021 03:24:48.793 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 03:24:48.799 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 03:24:48.815 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 03:24:48.817 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 03:24:48.819 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 03:24:48.824 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+2293:M 13 Mar 2021 03:24:49.227 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+2293:M 13 Mar 2021 03:24:49.230 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 13 Mar 2021 05:29:43.477 # Error accepting a client connection: (null)
+2293:M 13 Mar 2021 05:29:43.479 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request
+2293:M 13 Mar 2021 05:29:43.483 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 05:29:43.485 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 05:29:43.490 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 05:29:43.494 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 05:29:43.506 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 05:29:43.509 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 05:29:43.524 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+2293:M 13 Mar 2021 05:29:43.530 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 13 Mar 2021 05:29:43.537 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 13 Mar 2021 07:27:53.106 # Error accepting a client connection: (null)
+2293:M 13 Mar 2021 07:27:53.108 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+2293:M 13 Mar 2021 07:27:53.111 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 07:27:53.115 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 07:27:53.122 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 07:27:53.135 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 07:27:53.138 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 07:27:53.140 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 07:27:53.141 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+2293:M 13 Mar 2021 07:30:02.933 # Error accepting a client connection: Connection reset by peer
+2293:M 13 Mar 2021 09:24:20.370 # Error accepting a client connection: (null)
+2293:M 13 Mar 2021 09:24:20.370 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+2293:M 13 Mar 2021 09:24:20.373 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 09:24:20.376 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 09:24:20.379 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 09:24:20.381 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 09:24:20.384 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 09:24:20.386 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 09:24:20.388 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+2293:M 13 Mar 2021 09:24:20.391 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 13 Mar 2021 09:24:20.393 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:M 13 Mar 2021 11:24:44.336 # Error accepting a client connection: (null)
+2293:M 13 Mar 2021 11:24:44.338 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+2293:M 13 Mar 2021 11:24:44.340 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 11:24:44.342 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 11:24:44.349 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 11:24:44.356 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 11:24:44.358 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 11:24:44.360 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+2293:M 13 Mar 2021 11:24:44.365 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+2293:M 13 Mar 2021 11:24:44.367 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+2293:M 13 Mar 2021 11:24:44.369 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+2293:signal-handler (1615635712) Received SIGTERM scheduling shutdown...
+2293:M 13 Mar 2021 12:41:52.658 # User requested shutdown...
+2293:M 13 Mar 2021 12:41:52.663 # Redis is now ready to exit, bye bye...
+1744:C 13 Mar 2021 12:42:37.791 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1744:C 13 Mar 2021 12:42:37.791 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=1744, just started
+1744:C 13 Mar 2021 12:42:37.791 # Configuration loaded
+1744:M 13 Mar 2021 12:42:37.796 # Server initialized
+1744:M 13 Mar 2021 13:24:21.550 # Error accepting a client connection: (null)
+1744:M 13 Mar 2021 13:24:21.551 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 13 Mar 2021 13:24:21.554 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 13:24:21.556 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 13:24:21.560 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 13:24:21.562 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 13:24:21.565 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 13:24:21.568 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 13:24:21.573 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 13 Mar 2021 13:24:21.580 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 13 Mar 2021 13:24:21.589 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 13 Mar 2021 15:27:00.971 # Error accepting a client connection: (null)
+1744:M 13 Mar 2021 15:27:00.972 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request
+1744:M 13 Mar 2021 15:27:00.975 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 15:27:00.989 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 15:27:00.993 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 15:27:01.007 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 15:27:01.015 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 15:27:01.018 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 15:27:01.024 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 13 Mar 2021 15:27:01.028 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 13 Mar 2021 15:27:01.032 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1744:M 13 Mar 2021 17:24:52.499 # Error accepting a client connection: (null)
+1744:M 13 Mar 2021 17:24:52.500 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 13 Mar 2021 17:24:52.503 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 17:24:52.505 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 17:24:52.515 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 17:24:52.519 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 17:24:52.522 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1744:M 13 Mar 2021 17:24:52.524 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 17:24:52.530 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 13 Mar 2021 17:24:52.534 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 13 Mar 2021 17:24:52.536 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 13 Mar 2021 19:25:04.095 # Error accepting a client connection: (null)
+1744:M 13 Mar 2021 19:25:04.096 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 13 Mar 2021 19:25:04.098 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 19:25:04.101 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 19:25:04.104 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 19:25:04.110 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 19:25:04.113 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 19:25:04.115 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 19:25:04.117 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 13 Mar 2021 19:25:04.120 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1744:M 13 Mar 2021 19:25:04.122 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 13 Mar 2021 23:26:48.450 # Error accepting a client connection: (null)
+1744:M 13 Mar 2021 23:26:48.452 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 13 Mar 2021 23:26:48.455 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 23:26:48.458 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 23:26:48.460 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1744:M 13 Mar 2021 23:26:48.463 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 23:26:48.478 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 23:26:48.481 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 13 Mar 2021 23:26:48.493 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 13 Mar 2021 23:26:48.497 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1744:M 13 Mar 2021 23:26:48.499 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 01:28:27.204 # Error accepting a client connection: (null)
+1744:M 14 Mar 2021 01:28:27.211 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 14 Mar 2021 01:28:27.216 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1744:M 14 Mar 2021 01:28:27.220 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 01:28:27.228 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 01:28:27.234 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 01:28:27.237 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1744:M 14 Mar 2021 01:28:27.239 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 01:28:27.248 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 14 Mar 2021 01:28:27.260 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 01:28:27.263 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 03:24:52.851 # Error accepting a client connection: (null)
+1744:M 14 Mar 2021 03:24:52.857 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 14 Mar 2021 03:24:52.867 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 03:24:52.872 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1744:M 14 Mar 2021 03:24:52.875 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 03:24:52.876 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1744:M 14 Mar 2021 03:24:52.878 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 03:24:52.880 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 03:24:52.882 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low
+1744:M 14 Mar 2021 03:24:52.884 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 03:24:52.886 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1744:M 14 Mar 2021 05:25:01.639 # Error accepting a client connection: (null)
+1744:M 14 Mar 2021 05:25:01.641 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 14 Mar 2021 05:25:01.643 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 05:25:01.646 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1744:M 14 Mar 2021 05:25:01.649 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 05:25:01.651 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 05:25:01.663 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 05:25:01.668 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 05:25:01.670 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 14 Mar 2021 05:25:01.672 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 05:25:01.680 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 07:26:20.197 # Error accepting a client connection: (null)
+1744:M 14 Mar 2021 07:26:20.200 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 14 Mar 2021 07:26:20.204 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=13)
+1744:M 14 Mar 2021 07:26:20.207 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 07:26:20.209 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 07:26:20.212 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 07:26:20.215 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 07:26:20.219 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 07:26:20.227 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 14 Mar 2021 07:26:20.237 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 07:26:20.240 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1744:M 14 Mar 2021 09:27:32.552 # Error accepting a client connection: (null)
+1744:M 14 Mar 2021 09:27:32.554 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 14 Mar 2021 09:27:32.556 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1744:M 14 Mar 2021 09:27:32.561 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 09:27:32.563 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 09:27:32.565 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1744:M 14 Mar 2021 09:27:32.570 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 09:27:32.575 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 09:27:32.578 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 14 Mar 2021 09:27:32.580 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 09:27:32.582 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 11:26:30.530 # Error accepting a client connection: (null)
+1744:M 14 Mar 2021 11:26:30.540 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 14 Mar 2021 11:26:30.548 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 11:26:30.582 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 11:26:30.616 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 11:26:30.645 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 11:26:30.666 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 11:26:30.687 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 11:26:30.716 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 14 Mar 2021 11:26:30.751 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 11:26:30.759 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 13:24:54.108 # Error accepting a client connection: (null)
+1744:M 14 Mar 2021 13:24:54.110 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 14 Mar 2021 13:24:54.119 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 13:24:54.124 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 13:24:54.126 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1744:M 14 Mar 2021 13:24:54.128 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 13:24:54.131 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 13:24:54.133 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 13:24:54.135 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 14 Mar 2021 13:24:54.139 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1744:M 14 Mar 2021 13:24:54.142 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1744:M 14 Mar 2021 15:27:58.579 # Error accepting a client connection: (null)
+1744:M 14 Mar 2021 15:27:58.581 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 14 Mar 2021 15:27:58.583 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 15:27:58.585 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 15:27:58.587 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 15:27:58.590 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 15:27:58.592 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 15:27:58.610 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 15:27:58.620 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 14 Mar 2021 15:27:58.622 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 15:27:58.627 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 17:27:00.142 # Error accepting a client connection: (null)
+1744:M 14 Mar 2021 17:27:00.144 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 14 Mar 2021 17:27:00.146 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 17:27:00.162 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 17:27:00.165 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 17:27:00.176 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 17:27:00.177 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 17:27:00.179 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 17:27:00.181 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 14 Mar 2021 17:27:00.185 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 17:27:00.196 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=14)
+1744:M 14 Mar 2021 19:27:01.940 # Error accepting a client connection: (null)
+1744:M 14 Mar 2021 19:27:01.943 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 14 Mar 2021 19:27:01.945 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 19:27:01.949 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 19:27:01.951 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 19:27:01.958 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 19:27:01.963 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 19:27:01.972 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 19:27:01.978 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 14 Mar 2021 19:27:01.980 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 19:27:01.989 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 21:24:53.590 # Error accepting a client connection: (null)
+1744:M 14 Mar 2021 21:24:53.591 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 14 Mar 2021 21:24:53.594 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 21:24:53.596 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 21:24:53.600 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 21:24:53.605 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 21:24:53.609 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 21:24:53.613 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 21:24:53.619 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 14 Mar 2021 21:24:53.622 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 21:24:53.627 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 23:24:21.994 # Error accepting a client connection: (null)
+1744:M 14 Mar 2021 23:24:21.995 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 14 Mar 2021 23:24:21.997 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 23:24:21.999 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 23:24:22.000 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 23:24:22.003 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 23:24:22.005 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 23:24:22.008 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 14 Mar 2021 23:24:22.011 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 14 Mar 2021 23:24:22.013 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 14 Mar 2021 23:24:22.016 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 15 Mar 2021 01:26:59.420 # Error accepting a client connection: (null)
+1744:M 15 Mar 2021 01:26:59.423 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 15 Mar 2021 01:26:59.427 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 01:26:59.430 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 01:26:59.437 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 01:26:59.439 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 01:26:59.442 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 01:26:59.447 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 01:26:59.450 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 15 Mar 2021 01:26:59.455 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 15 Mar 2021 01:26:59.457 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 15 Mar 2021 03:28:20.497 # Error accepting a client connection: (null)
+1744:M 15 Mar 2021 03:28:20.500 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 15 Mar 2021 03:28:20.503 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 03:28:20.507 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 03:28:20.509 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 03:28:20.512 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 03:28:20.516 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 03:28:20.518 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 03:28:20.520 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 15 Mar 2021 03:28:20.523 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 15 Mar 2021 03:28:20.525 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 15 Mar 2021 05:24:21.925 # Error accepting a client connection: (null)
+1744:M 15 Mar 2021 05:24:21.929 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 15 Mar 2021 05:24:21.936 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 05:24:21.949 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 05:24:21.951 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 05:24:21.954 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 05:24:21.961 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 05:24:21.963 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 05:24:21.969 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 15 Mar 2021 05:24:21.973 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 15 Mar 2021 05:24:21.975 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 15 Mar 2021 07:24:59.050 # Error accepting a client connection: (null)
+1744:M 15 Mar 2021 07:24:59.053 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 15 Mar 2021 07:24:59.058 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 07:24:59.062 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 07:24:59.066 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 07:24:59.073 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 07:24:59.078 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 07:24:59.082 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 07:24:59.083 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 15 Mar 2021 07:24:59.086 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 15 Mar 2021 07:24:59.088 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 15 Mar 2021 09:25:04.124 # Error accepting a client connection: (null)
+1744:M 15 Mar 2021 09:25:04.126 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 15 Mar 2021 09:25:04.129 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 09:25:04.131 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 09:25:04.133 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 09:25:04.135 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 09:25:04.137 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 09:25:04.140 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1744:M 15 Mar 2021 09:25:04.143 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 15 Mar 2021 09:25:04.145 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 15 Mar 2021 09:25:04.147 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1744:M 15 Mar 2021 11:26:53.982 # Error accepting a client connection: (null)
+1744:M 15 Mar 2021 11:26:53.985 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1744:M 15 Mar 2021 11:26:53.992 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 11:26:54.001 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 11:26:54.006 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 11:26:54.025 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 11:26:54.027 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1744:M 15 Mar 2021 11:26:54.029 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1744:M 15 Mar 2021 11:26:54.033 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1744:M 15 Mar 2021 11:26:54.035 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1744:M 15 Mar 2021 11:26:54.037 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1756:C 17 Mar 2021 06:02:13.463 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1756:C 17 Mar 2021 06:02:13.465 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=1756, just started
+1756:C 17 Mar 2021 06:02:13.465 # Configuration loaded
+1756:M 17 Mar 2021 06:02:13.470 # Server initialized
+1756:M 17 Mar 2021 07:28:09.397 # Error accepting a client connection: (null)
+1756:M 17 Mar 2021 07:28:09.409 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1756:M 17 Mar 2021 07:28:09.427 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 07:28:09.442 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 07:28:09.479 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 07:28:09.488 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 07:28:09.492 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 07:28:09.511 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 07:28:09.514 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1756:M 17 Mar 2021 07:28:09.525 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1756:M 17 Mar 2021 07:28:09.545 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1756:M 17 Mar 2021 09:24:56.382 # Error accepting a client connection: (null)
+1756:M 17 Mar 2021 09:24:56.436 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1756:M 17 Mar 2021 09:24:56.448 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 09:24:56.489 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 09:24:56.550 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1756:M 17 Mar 2021 09:24:56.621 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 09:24:56.642 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1756:M 17 Mar 2021 09:24:56.644 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 09:24:56.688 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1756:M 17 Mar 2021 09:24:56.710 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1756:M 17 Mar 2021 09:24:56.724 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1756:M 17 Mar 2021 11:41:03.212 # Error accepting a client connection: (null)
+1756:M 17 Mar 2021 11:41:03.213 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1756:M 17 Mar 2021 11:41:03.229 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1756:M 17 Mar 2021 11:41:03.231 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 11:41:03.233 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 11:41:03.234 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 11:41:03.237 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1756:M 17 Mar 2021 11:41:03.239 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1756:M 17 Mar 2021 11:41:03.241 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1756:M 17 Mar 2021 11:41:03.243 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1756:M 17 Mar 2021 11:41:03.246 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1756:M 17 Mar 2021 13:24:52.161 # Error accepting a client connection: (null)
+1756:M 17 Mar 2021 13:24:52.166 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request
+1756:M 17 Mar 2021 13:24:52.170 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 13:24:52.172 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 13:24:52.177 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 13:24:52.178 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 13:24:52.182 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 13:24:52.184 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 13:24:52.188 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low
+1756:M 17 Mar 2021 13:24:52.190 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1756:M 17 Mar 2021 13:24:52.195 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1756:M 17 Mar 2021 15:27:09.913 # Error accepting a client connection: (null)
+1756:M 17 Mar 2021 15:27:09.914 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1756:M 17 Mar 2021 15:27:09.916 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 15:27:09.918 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 15:27:09.920 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 15:27:09.922 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 15:27:09.924 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 15:27:09.925 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 15:27:09.928 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1756:M 17 Mar 2021 15:27:09.930 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1756:M 17 Mar 2021 15:27:09.933 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1756:M 17 Mar 2021 17:26:25.164 # Error accepting a client connection: (null)
+1756:M 17 Mar 2021 17:26:25.166 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1756:M 17 Mar 2021 17:26:25.168 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 17:26:25.171 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 17:26:25.175 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 17:26:25.178 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 17:26:25.181 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 17:26:25.183 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 17:26:25.187 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1756:M 17 Mar 2021 17:26:25.189 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1756:M 17 Mar 2021 17:26:25.192 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1756:M 17 Mar 2021 19:25:29.065 # Error accepting a client connection: (null)
+1756:M 17 Mar 2021 19:25:29.069 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1756:M 17 Mar 2021 19:25:29.072 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 19:25:29.075 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 19:25:29.078 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 19:25:29.081 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 19:25:29.084 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 19:25:29.086 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 19:25:29.090 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1756:M 17 Mar 2021 19:25:29.094 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1756:M 17 Mar 2021 19:25:29.098 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1756:M 17 Mar 2021 23:28:03.316 # Error accepting a client connection: (null)
+1756:M 17 Mar 2021 23:28:03.373 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1756:M 17 Mar 2021 23:28:03.375 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 23:28:03.395 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 23:28:03.414 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 23:28:03.469 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 23:28:03.471 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 23:28:03.473 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 17 Mar 2021 23:28:03.474 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1756:M 17 Mar 2021 23:28:03.476 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1756:M 17 Mar 2021 23:28:03.478 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1756:M 18 Mar 2021 03:28:53.762 # Error accepting a client connection: (null)
+1756:M 18 Mar 2021 03:28:53.764 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request
+1756:M 18 Mar 2021 03:28:53.766 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 18 Mar 2021 03:28:53.768 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1756:M 18 Mar 2021 03:28:53.770 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 18 Mar 2021 03:28:53.771 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1756:M 18 Mar 2021 03:28:53.774 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 18 Mar 2021 03:28:53.776 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1756:M 18 Mar 2021 03:28:53.778 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1756:M 18 Mar 2021 03:28:53.781 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1756:M 18 Mar 2021 03:28:53.783 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1756:signal-handler (1616036079) Received SIGTERM scheduling shutdown...
+1756:M 18 Mar 2021 03:54:39.381 # User requested shutdown...
+1756:M 18 Mar 2021 03:54:39.384 # Redis is now ready to exit, bye bye...
+90422:C 18 Mar 2021 03:54:44.095 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+90422:C 18 Mar 2021 03:54:44.095 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=90422, just started
+90422:C 18 Mar 2021 03:54:44.095 # Configuration loaded
+90422:M 18 Mar 2021 03:54:44.097 # Server initialized
+90422:signal-handler (1616036864) Received SIGTERM scheduling shutdown...
+90422:M 18 Mar 2021 04:07:44.243 # User requested shutdown...
+90422:M 18 Mar 2021 04:07:44.245 # Redis is now ready to exit, bye bye...
+91652:C 18 Mar 2021 04:07:48.764 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+91652:C 18 Mar 2021 04:07:48.764 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=91652, just started
+91652:C 18 Mar 2021 04:07:48.764 # Configuration loaded
+91652:M 18 Mar 2021 04:07:48.766 # Server initialized
+91652:signal-handler (1616037014) Received SIGTERM scheduling shutdown...
+91652:M 18 Mar 2021 04:10:14.606 # User requested shutdown...
+91652:M 18 Mar 2021 04:10:14.608 # Redis is now ready to exit, bye bye...
+2368:C 18 Mar 2021 04:11:03.456 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2368:C 18 Mar 2021 04:11:03.456 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=2368, just started
+2368:C 18 Mar 2021 04:11:03.456 # Configuration loaded
+2368:M 18 Mar 2021 04:11:03.460 # Server initialized
+2368:signal-handler (1616037065) Received SIGTERM scheduling shutdown...
+2368:M 18 Mar 2021 04:11:05.534 # User requested shutdown...
+2368:M 18 Mar 2021 04:11:05.553 # Redis is now ready to exit, bye bye...
+2377:C 18 Mar 2021 04:14:55.009 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2377:C 18 Mar 2021 04:14:55.009 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=2377, just started
+2377:C 18 Mar 2021 04:14:55.009 # Configuration loaded
+2377:M 18 Mar 2021 04:14:55.014 # Server initialized
+2377:signal-handler (1616037297) Received SIGTERM scheduling shutdown...
+2377:M 18 Mar 2021 04:14:57.082 # User requested shutdown...
+2377:M 18 Mar 2021 04:14:57.107 # Redis is now ready to exit, bye bye...
+1820:C 18 Mar 2021 04:16:57.666 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1820:C 18 Mar 2021 04:16:57.668 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=1820, just started
+1820:C 18 Mar 2021 04:16:57.668 # Configuration loaded
+1820:M 18 Mar 2021 04:16:57.674 # Server initialized
+1820:signal-handler (1616037617) Received SIGTERM scheduling shutdown...
+1820:M 18 Mar 2021 04:20:17.554 # User requested shutdown...
+1820:M 18 Mar 2021 04:20:17.558 # Redis is now ready to exit, bye bye...
+2449:C 18 Mar 2021 04:20:22.130 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2449:C 18 Mar 2021 04:20:22.130 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=2449, just started
+2449:C 18 Mar 2021 04:20:22.130 # Configuration loaded
+2449:M 18 Mar 2021 04:20:22.132 # Server initialized
+2449:signal-handler (1616040843) Received SIGTERM scheduling shutdown...
+2449:M 18 Mar 2021 05:14:03.824 # User requested shutdown...
+2449:M 18 Mar 2021 05:14:03.829 # Redis is now ready to exit, bye bye...
+6459:C 18 Mar 2021 05:14:48.642 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+6459:C 18 Mar 2021 05:14:48.642 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=6459, just started
+6459:C 18 Mar 2021 05:14:48.642 # Configuration loaded
+6459:M 18 Mar 2021 05:14:48.645 # Server initialized
+6459:signal-handler (1616041286) Received SIGTERM scheduling shutdown...
+6459:M 18 Mar 2021 05:21:26.250 # User requested shutdown...
+6459:M 18 Mar 2021 05:21:26.254 # Redis is now ready to exit, bye bye...
+7274:C 18 Mar 2021 05:21:30.503 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+7274:C 18 Mar 2021 05:21:30.504 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=7274, just started
+7274:C 18 Mar 2021 05:21:30.504 # Configuration loaded
+7274:M 18 Mar 2021 05:21:30.506 # Server initialized
+7274:signal-handler (1616041590) Received SIGTERM scheduling shutdown...
+7274:M 18 Mar 2021 05:26:30.753 # User requested shutdown...
+7274:M 18 Mar 2021 05:26:30.757 # Redis is now ready to exit, bye bye...
+7959:C 18 Mar 2021 05:26:35.070 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+7959:C 18 Mar 2021 05:26:35.070 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=7959, just started
+7959:C 18 Mar 2021 05:26:35.070 # Configuration loaded
+7959:M 18 Mar 2021 05:26:35.072 # Server initialized
+7959:signal-handler (1616043441) Received SIGTERM scheduling shutdown...
+7959:M 18 Mar 2021 05:57:21.523 # User requested shutdown...
+7959:M 18 Mar 2021 05:57:21.528 # Redis is now ready to exit, bye bye...
+10463:C 18 Mar 2021 05:57:25.889 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+10463:C 18 Mar 2021 05:57:25.889 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=10463, just started
+10463:C 18 Mar 2021 05:57:25.889 # Configuration loaded
+10463:M 18 Mar 2021 05:57:25.892 # Server initialized
+10463:M 18 Mar 2021 09:35:15.679 # Error accepting a client connection: (null)
+10463:M 18 Mar 2021 09:35:15.682 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+10463:M 18 Mar 2021 09:35:15.684 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+10463:M 18 Mar 2021 09:35:15.694 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+10463:M 18 Mar 2021 09:35:15.696 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+10463:M 18 Mar 2021 09:35:15.697 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+10463:M 18 Mar 2021 09:35:15.699 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+10463:M 18 Mar 2021 09:35:15.700 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+10463:M 18 Mar 2021 09:35:15.703 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+10463:M 18 Mar 2021 09:35:15.705 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+10463:M 18 Mar 2021 09:35:15.707 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+10463:M 18 Mar 2021 11:29:21.162 # Error accepting a client connection: (null)
+10463:M 18 Mar 2021 11:29:21.164 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+10463:M 18 Mar 2021 11:29:21.165 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+10463:M 18 Mar 2021 11:29:21.168 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+10463:M 18 Mar 2021 11:29:21.170 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+10463:M 18 Mar 2021 11:29:21.172 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+10463:M 18 Mar 2021 11:29:21.174 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+10463:M 18 Mar 2021 11:29:21.176 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+10463:M 18 Mar 2021 11:29:21.178 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low
+10463:M 18 Mar 2021 11:29:21.180 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+10463:M 18 Mar 2021 11:29:21.181 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+10463:signal-handler (1616066323) Received SIGTERM scheduling shutdown...
+10463:M 18 Mar 2021 12:18:43.874 # User requested shutdown...
+10463:M 18 Mar 2021 12:18:43.878 # Redis is now ready to exit, bye bye...
+37089:C 18 Mar 2021 12:18:48.251 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+37089:C 18 Mar 2021 12:18:48.251 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=37089, just started
+37089:C 18 Mar 2021 12:18:48.251 # Configuration loaded
+37089:M 18 Mar 2021 12:18:48.253 # Server initialized
+37089:signal-handler (1616066781) Received SIGTERM scheduling shutdown...
+37089:M 18 Mar 2021 12:26:21.633 # User requested shutdown...
+37089:M 18 Mar 2021 12:26:21.638 # Redis is now ready to exit, bye bye...
+38254:C 18 Mar 2021 12:26:25.812 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+38254:C 18 Mar 2021 12:26:25.812 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=38254, just started
+38254:C 18 Mar 2021 12:26:25.812 # Configuration loaded
+38254:M 18 Mar 2021 12:26:25.815 # Server initialized
+38254:signal-handler (1616066971) Received SIGTERM scheduling shutdown...
+38254:M 18 Mar 2021 12:29:31.986 # User requested shutdown...
+38254:M 18 Mar 2021 12:29:32.005 # Redis is now ready to exit, bye bye...
+38824:C 18 Mar 2021 12:29:36.002 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+38824:C 18 Mar 2021 12:29:36.002 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=38824, just started
+38824:C 18 Mar 2021 12:29:36.002 # Configuration loaded
+38824:M 18 Mar 2021 12:29:36.004 # Server initialized
+38824:signal-handler (1616067733) Received SIGTERM scheduling shutdown...
+38824:M 18 Mar 2021 12:42:13.233 # User requested shutdown...
+38824:M 18 Mar 2021 12:42:13.239 # Redis is now ready to exit, bye bye...
+1815:C 18 Mar 2021 12:42:58.553 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1815:C 18 Mar 2021 12:42:58.553 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=1815, just started
+1815:C 18 Mar 2021 12:42:58.553 # Configuration loaded
+1815:M 18 Mar 2021 12:42:58.557 # Server initialized
+1815:signal-handler (1616068082) Received SIGTERM scheduling shutdown...
+1815:M 18 Mar 2021 12:48:02.453 # User requested shutdown...
+1815:M 18 Mar 2021 12:48:02.458 # Redis is now ready to exit, bye bye...
+1858:C 18 Mar 2021 12:48:47.686 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1858:C 18 Mar 2021 12:48:47.686 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=1858, just started
+1858:C 18 Mar 2021 12:48:47.687 # Configuration loaded
+1858:M 18 Mar 2021 12:48:47.691 # Server initialized
+1858:signal-handler (1616068187) Received SIGTERM scheduling shutdown...
+1858:M 18 Mar 2021 12:49:47.678 # User requested shutdown...
+1858:M 18 Mar 2021 12:49:47.683 # Redis is now ready to exit, bye bye...
+1775:C 18 Mar 2021 12:50:32.949 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1775:C 18 Mar 2021 12:50:32.951 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=1775, just started
+1775:C 18 Mar 2021 12:50:32.951 # Configuration loaded
+1775:M 18 Mar 2021 12:50:32.956 # Server initialized
+1775:signal-handler (1616068267) Received SIGTERM scheduling shutdown...
+1775:M 18 Mar 2021 12:51:07.149 # User requested shutdown...
+1775:M 18 Mar 2021 12:51:07.152 # Redis is now ready to exit, bye bye...
+1820:C 18 Mar 2021 12:51:51.524 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1820:C 18 Mar 2021 12:51:51.525 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=1820, just started
+1820:C 18 Mar 2021 12:51:51.525 # Configuration loaded
+1820:M 18 Mar 2021 12:51:51.530 # Server initialized
+1820:M 18 Mar 2021 13:25:05.680 # Error accepting a client connection: (null)
+1820:M 18 Mar 2021 13:25:05.682 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1820:M 18 Mar 2021 13:25:05.685 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 13:25:05.688 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 13:25:05.694 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 13:25:05.696 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 13:25:05.699 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 13:25:05.702 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 13:25:05.706 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1820:M 18 Mar 2021 13:25:05.709 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1820:M 18 Mar 2021 13:25:05.713 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1820:M 18 Mar 2021 15:24:58.477 # Error accepting a client connection: (null)
+1820:M 18 Mar 2021 15:24:58.478 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1820:M 18 Mar 2021 15:24:58.482 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 15:24:58.485 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 15:24:58.488 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 15:24:58.493 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 15:24:58.495 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 15:24:58.498 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 15:24:58.501 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1820:M 18 Mar 2021 15:24:58.505 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1820:M 18 Mar 2021 15:24:58.509 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1820:M 18 Mar 2021 17:27:40.351 # Error accepting a client connection: (null)
+1820:M 18 Mar 2021 17:27:40.354 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1820:M 18 Mar 2021 17:27:40.358 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 17:27:40.362 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 17:27:40.365 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1820:M 18 Mar 2021 17:27:40.367 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 17:27:40.370 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1820:M 18 Mar 2021 17:27:40.373 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 17:27:40.379 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1820:M 18 Mar 2021 17:27:40.380 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1820:M 18 Mar 2021 17:27:40.383 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1820:M 18 Mar 2021 19:28:01.455 # Error accepting a client connection: (null)
+1820:M 18 Mar 2021 19:28:01.457 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1820:M 18 Mar 2021 19:28:01.460 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 19:28:01.463 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1820:M 18 Mar 2021 19:28:01.465 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1820:M 18 Mar 2021 19:28:01.468 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 19:28:01.470 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 19:28:01.477 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 19:28:01.481 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1820:M 18 Mar 2021 19:28:01.486 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1820:M 18 Mar 2021 19:28:01.489 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1820:M 18 Mar 2021 21:25:52.321 # Error accepting a client connection: (null)
+1820:M 18 Mar 2021 21:25:52.323 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1820:M 18 Mar 2021 21:25:52.325 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1820:M 18 Mar 2021 21:25:52.327 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 21:25:52.330 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 21:25:52.331 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 21:25:52.333 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 21:25:52.335 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 21:25:52.338 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1820:M 18 Mar 2021 21:25:52.341 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1820:M 18 Mar 2021 21:25:52.343 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1820:M 18 Mar 2021 23:25:14.568 # Error accepting a client connection: (null)
+1820:M 18 Mar 2021 23:25:14.569 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1820:M 18 Mar 2021 23:25:14.573 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 23:25:14.576 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 23:25:14.579 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 23:25:14.581 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 23:25:14.583 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 23:25:14.586 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 18 Mar 2021 23:25:14.589 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1820:M 18 Mar 2021 23:25:14.592 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1820:M 18 Mar 2021 23:25:14.595 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1820:M 19 Mar 2021 01:25:11.305 # Error accepting a client connection: (null)
+1820:M 19 Mar 2021 01:25:11.307 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1820:M 19 Mar 2021 01:25:11.310 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 01:25:11.312 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 01:25:11.316 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 01:25:11.320 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 01:25:11.323 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 01:25:11.327 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 01:25:11.331 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1820:M 19 Mar 2021 01:25:11.335 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1820:M 19 Mar 2021 01:25:11.339 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1820:M 19 Mar 2021 03:25:13.292 # Error accepting a client connection: (null)
+1820:M 19 Mar 2021 03:25:13.292 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1820:M 19 Mar 2021 03:25:13.298 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 03:25:13.304 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 03:25:13.308 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 03:25:13.310 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 03:25:13.319 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 03:25:13.325 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 03:25:13.330 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1820:M 19 Mar 2021 03:25:13.333 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1820:M 19 Mar 2021 03:25:13.340 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1820:M 19 Mar 2021 05:25:05.526 # Error accepting a client connection: (null)
+1820:M 19 Mar 2021 05:25:05.529 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1820:M 19 Mar 2021 05:25:05.532 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 05:25:05.535 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 05:25:05.538 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 05:25:05.540 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 05:25:05.542 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 05:25:05.545 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 05:25:05.548 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low
+1820:M 19 Mar 2021 05:25:05.553 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1820:M 19 Mar 2021 05:25:05.750 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1820:M 19 Mar 2021 07:24:56.289 # Error accepting a client connection: (null)
+1820:M 19 Mar 2021 07:24:56.290 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1820:M 19 Mar 2021 07:24:56.292 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 07:24:56.294 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 07:24:56.296 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+1820:M 19 Mar 2021 07:24:56.301 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 07:24:56.303 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 07:24:56.305 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 07:24:56.307 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1820:M 19 Mar 2021 07:24:56.309 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1820:M 19 Mar 2021 07:24:56.312 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1820:M 19 Mar 2021 11:26:05.578 # Error accepting a client connection: (null)
+1820:M 19 Mar 2021 11:26:05.579 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=13)
+1820:M 19 Mar 2021 11:26:05.580 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 11:26:05.583 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 11:26:05.584 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 11:26:05.589 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 11:26:05.595 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 11:26:05.598 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1820:M 19 Mar 2021 11:26:05.599 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1820:M 19 Mar 2021 11:26:05.601 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1820:M 19 Mar 2021 11:26:05.602 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1820:signal-handler (1616164390) Received SIGTERM scheduling shutdown...
+1820:M 19 Mar 2021 15:33:10.703 # User requested shutdown...
+1820:M 19 Mar 2021 15:33:10.708 # Redis is now ready to exit, bye bye...
+1824:C 23 Mar 2021 07:17:32.944 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1824:C 23 Mar 2021 07:17:32.946 # Redis version=6.0.10, bits=64, commit=21dcf1e5, modified=1, pid=1824, just started
+1824:C 23 Mar 2021 07:17:32.946 # Configuration loaded
+1824:M 23 Mar 2021 07:17:32.952 # Server initialized
+1824:M 24 Mar 2021 03:24:21.694 # Error accepting a client connection: (null)
+1824:M 24 Mar 2021 03:24:21.694 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1824:M 24 Mar 2021 03:24:21.696 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 24 Mar 2021 03:24:21.698 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 24 Mar 2021 03:24:21.699 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 24 Mar 2021 03:24:21.705 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 24 Mar 2021 03:24:21.708 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 24 Mar 2021 03:24:21.709 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 24 Mar 2021 03:24:21.720 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1824:M 24 Mar 2021 03:24:21.722 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1824:M 24 Mar 2021 03:24:21.723 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
+1824:M 25 Mar 2021 03:24:21.752 # Error accepting a client connection: (null)
+1824:M 25 Mar 2021 03:24:21.752 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1824:M 25 Mar 2021 03:24:21.761 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 25 Mar 2021 03:24:21.762 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 25 Mar 2021 03:24:21.764 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 25 Mar 2021 03:24:21.765 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 25 Mar 2021 03:24:21.766 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 25 Mar 2021 03:24:21.769 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 25 Mar 2021 03:24:21.778 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1824:M 25 Mar 2021 03:24:21.779 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1824:M 25 Mar 2021 03:24:21.781 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1824:M 25 Mar 2021 06:20:49.575 # Error accepting a client connection: (null)
+1824:M 25 Mar 2021 06:20:49.577 # Error accepting a client connection: error:1408F09C:SSL routines:ssl3_get_record:http request (conn: fd=12)
+1824:M 25 Mar 2021 06:20:49.579 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 25 Mar 2021 06:20:49.580 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 25 Mar 2021 06:20:49.582 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 25 Mar 2021 06:20:49.608 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 25 Mar 2021 06:20:49.611 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 25 Mar 2021 06:20:49.613 # Error accepting a client connection: error:1408F10B:SSL routines:ssl3_get_record:wrong version number (conn: fd=12)
+1824:M 25 Mar 2021 06:20:49.615 # Error accepting a client connection: error:1420918C:SSL routines:tls_early_post_process_client_hello:version too low (conn: fd=12)
+1824:M 25 Mar 2021 06:20:49.616 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol (conn: fd=12)
+1824:M 25 Mar 2021 06:20:49.617 # Error accepting a client connection: error:14209102:SSL routines:tls_early_post_process_client_hello:unsupported protocol
